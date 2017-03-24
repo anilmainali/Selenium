@@ -1,5 +1,5 @@
 # Selenium
-# Welcome to EasyTravel-Selenium Repo
+# Welcome to Selenium Repo
 
 This Repo will be used as a tutorial on How To Get Started with Selenium.
 
