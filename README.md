@@ -3,6 +3,8 @@
 
 This Repo will be used as a tutorial on How To Get Started with Selenium.
 
+## What is Selenium
+
 ## Prerequisite
 1. Set up your environment to run the Selenium script.
 
