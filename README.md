@@ -5,9 +5,9 @@ This Repo will be used as a tutorial on How To Get Started with Selenium.
 
 ## What is Selenium
 
--Open Source.
+-Open Source.FREE
 -Used for Web Based Applications.
--Works On Multiple Operating Systems.
+-Works On Multiple Operating Systems.Windows,Mac OSX,Linux,Soraris
 
 ## Prerequisite
 1. Set up your environment to run the Selenium script.
