@@ -11,6 +11,15 @@ This Repo will be used as a tutorial on How To Get Started with Selenium.
 
 -Works On Multiple Operating Systems.Windows,Mac OSX,Linux,Soraris
 
+-Supprts multiple Language
+
+0.Java
+0.C#
+0.rUBY 
+0.Phython
+0.PHP
+0.Pearl
+
 ## Prerequisite
 1. Set up your environment to run the Selenium script.
 
