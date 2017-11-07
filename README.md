@@ -13,12 +13,19 @@ This Repo will be used as a tutorial on How To Get Started with Selenium.
 
 -Supprts multiple Language
 
-0. Java
+1. Java
 0. C#
 0. rUBY 
 0. Phython
 0. PHP
 0. Pearl
+
+- Supports Different Browsers
+
+1. IE
+0. FireFox
+0. Chrome
+0. Safari
 
 ## Prerequisite
 1. Set up your environment to run the Selenium script.
