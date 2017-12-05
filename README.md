@@ -66,19 +66,19 @@ For this tutorial we are going to Download and install Eclipse IDE.For the compl
 ## Step 4 :Open Eclipse IDE for the first time.
 Navigate to the directory folder where you downloaded and saved your Eclipse.
 
-Click on **eclipse.exe** file
+- Click on **eclipse.exe** file
 
-It will open a Eclipse launcher where you have a option to select a directory where you want to save your work.
+- It will open a Eclipse launcher where you have a option to select a directory where you want to save your work.
 
-Either leave the default (in my case C:\users\Mainali\workspace) and Click OK. Or browse to the folder where you want to save your work and click OK.
+- Either leave the default (in my case C:\users\Mainali\workspace) and Click OK. Or browse to the folder where you want to save your work and click OK.
 
-It will load the Eclipse and will launch the welcome screen.
+- It will load the Eclipse and will launch the welcome screen.
 
-Click on Create a new Java Project link.
+- Click on Create a new Java Project link.
 
-It will open a new Project dialog where you have to enter the Project Name and click on Finish.
+- It will open a new Project dialog where you have to enter the Project Name and click on Finish.
 
-You will be presented with an Eclipse interface with your project name , src and Java library.
+- You will be presented with an Eclipse interface with your project name , src and Java library.
 
 ## Step 5 :Download Selenium Jars
 Navigate to the Selenium official website: http://www.seleniumhq.org/download/
