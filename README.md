@@ -172,6 +172,9 @@ https://www.youtube.com/user/seleniumconf
 ## Twitter
 https://twitter.com/SeleniumHQ
 
+## Selenium Conference Twitter
+
+https://twitter.com/seleniumconf
 
 
 - You can find a blog at Nikolay Advolodkin Personal website Ultimate QA, where he shares about the best resources link for Selinium.
