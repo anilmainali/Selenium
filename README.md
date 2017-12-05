@@ -18,11 +18,11 @@ According to http://www.seleniumhq.org/ :
   - Linux
   - Soraris
 
--Supprts multiple Language
+- Selenium supprts multiple Language
 
 1. Java
 0. C#
-0. rUBY 
+0. RUBY 
 0. Phython
 0. PHP
 0. Pearl
