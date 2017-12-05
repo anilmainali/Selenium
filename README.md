@@ -124,19 +124,19 @@ Now,
 
 - Select and click on client-combined-3.3.1-nodeps.jar.
 
-Click Apply
+- Click Apply
 
-It imports the jar.
+- It imports the jar.
 
-Again click on Add External jars.
+- Again click on Add External jars.
 
-Open the library folder.
+- Open the library folder.
 
-Select all the jars by pressing Ctrl + A and click on Open
+- Select all the jars by pressing Ctrl + A and click on Open
 
 All your jars will be imported.
 
-Click OK. All your Selenium Jars will be placed under your project.
+- Click OK. All your Selenium Jars will be placed under your project.
 
 Now, you are all set to write your selenium scripts using Java using Eclipse IDE.
 
