@@ -8,11 +8,15 @@ According to http://www.seleniumhq.org/ :
 
 "Selenium automates browsers. That's it! What you do with that power is entirely up to you."
 
--Open Source.FREE
+- Selenium is an open source.Which means FREE.
 
--Used for Web Based Applications.
+-It is Used for Web Based Applications.
 
--Works On Multiple Operating Systems.Windows,Mac OSX,Linux,Soraris
+- You can work on multiple operating systems using selenium. 
+  - Windows
+  - Mac OSX
+  - Linux
+  - Soraris
 
 -Supprts multiple Language
 
