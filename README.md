@@ -169,6 +169,9 @@ http://www.seleniumhq.org/support/
 ## seleniumconf You Tube channel:
 https://www.youtube.com/user/seleniumconf
 
+## Twitter
+https://twitter.com/SeleniumHQ
+
 
 
 - You can find a blog at Nikolay Advolodkin Personal website Ultimate QA, where he shares about the best resources link for Selinium.
