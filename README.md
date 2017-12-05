@@ -98,31 +98,31 @@ Note: This will be downloaded as a zip file.
 
 ## Step 6 :Import Selenium Jars into Project.
 
-Open you Eclipse IDE and create a new projectby right clicking into project explorer section.
+- Open you Eclipse IDE and create a new projectby right clicking into project explorer section.
 
-Select new and click on other then java project.
+- Select new and click on other then java project.
 
-Click on Next.
+- Click on Next.
 
-Provide a project name for Example easyTravel Project.
+- Provide a project name for Example easyTravel Project.
 
-Click on Finish.
+- Click on Finish.
 
 Now,
 
-Right Click on the project.
+- Right Click on the project.
 
-Click on Properties.
+- Click on Properties.
 
-Click on Java build path.
+- Click on Java build path.
 
-Select Libraries.
+- Select Libraries.
 
-Click on Add External Jars.
+- Click on Add External Jars.
 
-Go to downloads where you downloaded your jars.
+- Go to downloads where you downloaded your jars.
 
-Select and click on client-combined-3.3.1-nodeps.jar.
+- Select and click on client-combined-3.3.1-nodeps.jar.
 
 Click Apply
 
