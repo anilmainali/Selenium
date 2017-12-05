@@ -150,6 +150,9 @@ Here are some best resources links for learning Selenium.
 ## Selinium official site: 
 http://www.seleniumhq.org/
 
+## Selenium Documentation
+http://www.seleniumhq.org/docs/
+
 
 
 - You can find a blog at Nikolay Advolodkin Personal website Ultimate QA, where he shares about the best resources link for Selinium.
