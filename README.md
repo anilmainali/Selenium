@@ -153,6 +153,10 @@ http://www.seleniumhq.org/
 ## Selenium Documentation
 http://www.seleniumhq.org/docs/
 
+## Official Selenium Blog
+
+https://seleniumhq.wordpress.com/
+
 ## For support you can go to 
 http://www.seleniumhq.org/support/ 
 
