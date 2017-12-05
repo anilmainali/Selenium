@@ -153,6 +153,9 @@ http://www.seleniumhq.org/
 ## Selenium Documentation
 http://www.seleniumhq.org/docs/
 
+## For support you can go to 
+http://www.seleniumhq.org/support/ 
+
 
 
 - You can find a blog at Nikolay Advolodkin Personal website Ultimate QA, where he shares about the best resources link for Selinium.
