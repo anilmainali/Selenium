@@ -157,6 +157,9 @@ http://www.seleniumhq.org/docs/
 
 https://seleniumhq.wordpress.com/
 
+## Selenium Contributors: 
+http://www.seleniumhq.org/about/contributors.jsp
+
 ## For support you can go to 
 http://www.seleniumhq.org/support/ 
 
