@@ -146,6 +146,12 @@ Now, you are all set to write your selenium scripts using Java using Eclipse IDE
 
 ## Resources
 Here are some best resources links for learning Selenium.
+
+## Selinium official site: 
+http://www.seleniumhq.org/
+
+
+
 - You can find a blog at Nikolay Advolodkin Personal website Ultimate QA, where he shares about the best resources link for Selinium.
   https://www.ultimateqa.com/best-selenium-webdriver-resources/
 
