@@ -4,6 +4,9 @@
 This Repo will be used as a tutorial on How To Get Started with Selenium.
 
 ## What is Selenium
+According to http://www.seleniumhq.org/ :
+
+"Selenium automates browsers. That's it! What you do with that power is entirely up to you."
 
 -Open Source.FREE
 
