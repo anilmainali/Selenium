@@ -160,6 +160,9 @@ https://seleniumhq.wordpress.com/
 ## Selenium Contributors: 
 http://www.seleniumhq.org/about/contributors.jsp
 
+## How you can contribute to selenium.
+http://www.seleniumhq.org/about/getting-involved.jsp
+
 ## For support you can go to 
 http://www.seleniumhq.org/support/ 
 
