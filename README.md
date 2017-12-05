@@ -27,7 +27,7 @@ According to http://www.seleniumhq.org/ :
 0. PHP
 0. Pearl
 
-- Supports Different Browsers
+- It Supports Different Browsers
 
 1. IE
 0. FireFox
