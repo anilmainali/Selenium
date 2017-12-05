@@ -81,17 +81,17 @@ Navigate to the directory folder where you downloaded and saved your Eclipse.
 - You will be presented with an Eclipse interface with your project name , src and Java library.
 
 ## Step 5 :Download Selenium Jars
-Navigate to the Selenium official website: http://www.seleniumhq.org/download/
+- Navigate to the Selenium official website: http://www.seleniumhq.org/download/
 
-Under Selenium Client & WebDriver Language Bindings, click on Download Link next to Java.
+- Under Selenium Client & WebDriver Language Bindings, click on Download Link next to Java.
 
-Selenium-Java-3.3.1-Zip will be downloaded.
+- Selenium-Java-3.3.1-Zip will be downloaded.
 
 Note: This will be downloaded as a zip file.
 
-Click on the downloaded zip or Click on dropdown arrow and select and click on show in folder.
+- Click on the downloaded zip or Click on dropdown arrow and select and click on show in folder.
 
-Unzip the file
+- Unzip the file
  You have successfully downloaded the Selenium jar on your computer. Follow the next section to import  the selenium jar into your project.
  
  Note: Make a note of where you have downloaded your file. In my case, I have saved in C:\Users\Mainali\Downloads\selenium-java-3.3.1
